@@ -1,7 +1,14 @@
-### Hi there 👋
-## I'm a beginner Web developer.
+## Начинающий веб-разработчик.
 
-- 🔭 I’m currently working on [git-test-site](https://github.com/mohovoy/git-test-site)
-- 🌱 I’m currently learning HTML, CSS, JS, Flask
+### Немного информации
+1. 🔭 В настоящее время я работаю над[git-test-site](https://github.com/mohovoy/git-test-site)
+2. 🌱 В настоящее время я учу:
+    - ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 
-Languages and Tools:
+### Используемые приложения
+1. Редактирования кода:
+    - ![VisualStudioCode](https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) ![SublimeText3](https://img.shields.io/badge/-Sublime Text-090909?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
+
+
+### Связаться со мной
+[![VK](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/mohovoy)
