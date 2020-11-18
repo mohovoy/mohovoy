@@ -14,7 +14,7 @@
 * **SSD** - KINGSTON SA400S37120G - *120 ГБ*
 
 ### 🛠 Инструменты:
-![VisualStudioCode](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF) ![SublimeText3](https://img.shields.io/badge/-Sublime Text-090909?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
+[![VisualStudioCode](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/) [![SublimeText3](https://img.shields.io/badge/-Sublime Text 3-090909?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
 
 
 ### Связаться со мной:
