@@ -13,9 +13,5 @@
 * **HDD** - ST316081 - *160 ГБ*
 * **SSD** - KINGSTON SA400S37120G - *120 ГБ*
 
-### 🛠 Инструменты:
-[![VisualStudioCode](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/) [![SublimeText3](https://img.shields.io/badge/-Sublime Text 3-090909?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/3)
-
-
 ### Связаться со мной:
 [![VK](https://img.shields.io/badge/-Вконтакте-4680C2?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/) [![Discord](https://img.shields.io/badge/-mohovoy%232611-7289DA?style=for-the-badge&logo=Discord&logoColor=fff)](https://steamcommunity.com/id/mohovoy/)
