@@ -11,4 +11,8 @@
 
 
 ### Связаться со мной
+<<<<<<< HEAD
 [![VK](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/)
+=======
+[![VK](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/mohovoy)
+>>>>>>> cf27f7acb459551a34d4e73e3c3459596cc7b679
