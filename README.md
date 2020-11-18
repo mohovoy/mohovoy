@@ -19,3 +19,6 @@
 
 ### Связаться со мной:
 [![VK](https://img.shields.io/badge/-Вконтакте-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/)
+
+### GitHub Readme Stats
+[![mohovoy](https://github-readme-stats.vercel.app/api?username=mohovoy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohovoy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
