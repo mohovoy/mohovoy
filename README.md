@@ -1,7 +1,7 @@
 ## Начинающий веб-разработчик.
 
 ### Немного информации
-1. 🔭 В настоящее время я работаю над[git-test-site](https://github.com/mohovoy/git-test-site)
+1. 🔭 В настоящее время я работаю над [git-test-site](https://github.com/mohovoy/git-test-site)
 2. 🌱 В настоящее время я учу:
     - ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 
