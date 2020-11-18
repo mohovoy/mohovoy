@@ -18,4 +18,4 @@
 
 
 ### Связаться со мной:
-[![VK](https://img.shields.io/badge/-Вконтакте-4680C2?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/)
+[![VK](https://img.shields.io/badge/-Вконтакте-4680C2?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/nikita.mohovikov) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/) [![Discord](https://img.shields.io/badge/-mohovoy%232611-7289DA?style=for-the-badge&logo=Discord&logoColor=fff)](https://steamcommunity.com/id/mohovoy/)
