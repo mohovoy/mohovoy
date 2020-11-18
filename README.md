@@ -6,7 +6,7 @@
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff)
 
 ### 💻 Хар-ки моих систем:
-|  | Компьютер | Ноутбук ( Lenovo Ideapad 110-15ACL ) |
+| **#** | **Компьютер** | **Ноутбук ( *Lenovo Ideapad 110-15ACL* )** |
 |:-:|:-:|:-:|
 | **ОС** | Windows 10 Enterprise | Windows 10 Enterprise |
 | **Процессор** | DualCore AMD A6-7480 - *3,5 ГГц* | DualCore AMD E1-7010 - *1,5 ГГц* |
