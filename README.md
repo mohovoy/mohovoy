@@ -13,7 +13,6 @@
 | **SSD** | Kingston SA400S37120G - *120Гб* | Отсутствует |
 | **HDD** | ST316081 - *160 Гб* | ST500LT012 - *500 Гб* |
 #
-### Наиболее часто используемые языки
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohovoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 ### Contact me:
