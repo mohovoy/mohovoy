@@ -1,9 +1,8 @@
 ### 📃 About me information:
-1. 🔭 I am currently working on [git-test-site](https://github.com/mohovoy/git-test-site)
-2. 🌱 I am currently teaching:
+1. 🌱 I am currently teaching:
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff)
-3.  - 📄 I write the code using [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
-    - ✒️ Design for the site I do here [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFF)](https://www.figma.com/@mohovoy)
+- 📄 I write the code using [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
+- ✒️ Design for the site I do here [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFF)](https://www.figma.com/@mohovoy)
 #
 ### 💻 Characteristics of my system:
 || **Computer** | **Laptop ( *Lenovo Ideapad 110-15ACL* )** |
