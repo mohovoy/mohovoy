@@ -1,16 +1,14 @@
-### 📃 About me information:
-1. 🌱 I am currently teaching:
+### 📃 Информация:
+- 🌱 В настоящее время изучаю:
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff)
-- 📄 I write the code using [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
-- ✒️ Design for the site I do here [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFF)](https://www.figma.com/@mohovoy)
 #
 ### 💻 Characteristics of my system:
-|| **Computer** | **Laptop ( *Lenovo Ideapad 110-15ACL* )** |
+|| **Компьютер** | **Ноутбук ( *Lenovo Ideapad 110-15ACL* )** |
 |:-:|:-:|:-:|
-| **OS** | Windows 10 Enterprise | Windows 10 Enterprise |
-| **CPU** | DualCore AMD A6-7480 - *3,5 ГГц* | DualCore AMD E1-7010 - *1,5 ГГц* |
-| **Video card** | AMD Radeon R5 Graphics - *512 Мб* | AMD Radeon R2 Graphics - *512 Мб* |
-| **RAM** | *4 Гб* - *3,45 Гб* available | *4 Гб* - *3,45 Гб* available |
+| **ОС** | Windows 10 Enterprise | Windows 10 Enterprise |
+| **Процессор** | DualCore AMD A6-7480 - *3,5 ГГц* | DualCore AMD E1-7010 - *1,5 ГГц* |
+| **Видеокарта** | AMD Radeon R5 Graphics - *512 Мб* | AMD Radeon R2 Graphics - *512 Мб* |
+| **ОЗУ** | *4 Гб* - *3,45 Гб* available | *4 Гб* - *3,45 Гб* available |
 | **SSD** | Kingston SA400S37120G - *120Гб* | absent |
 | **HDD** | ST316081 - *160 Гб* | ST500LT012 - *500 Гб* |
 #
