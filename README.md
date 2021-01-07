@@ -2,7 +2,7 @@
 - 🌱 В настоящее время изучаю:
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=fff)
 #
-### 💻 Characteristics of my system:
+### 💻 Хар-ки моих систем:
 || **Компьютер** | **Ноутбук ( *Lenovo Ideapad 110-15ACL* )** |
 |:-:|:-:|:-:|
 | **ОС** | Windows 10 Enterprise | Windows 10 Enterprise |
