@@ -3,14 +3,15 @@
     - Зовут Никита, мне 17 лет. Живу в Беларуси, учусь на повара. Практикуюсь в создании веб-сайтов
 - 🌱 В настоящее время изучаю:
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff)
+- 📃 [Личный сайт](https://mohovoy.herokuapp.com/)
 #
 ### 💻 Хар-ки моих систем:
 || **Компьютер** | **Ноутбук ( *Lenovo Ideapad 110-15ACL* )** |
 |:-:|:-:|:-:|
 | **ОС** | Windows 10 Enterprise | Windows 10 Enterprise |
 | **Процессор** | DualCore AMD A6-7480 - *3,5 ГГц* | DualCore AMD E1-7010 - *1,5 ГГц* |
-| **Видеокарта** | AMD Radeon R5 Graphics - *512 Мб* | AMD Radeon R2 Graphics - *512 Мб* |
-| **ОЗУ** | *4 Гб* - *3,45 Гб* доступно | *4 Гб* - *3,45 Гб* доступно |
+| **Видеокарта** | NVIDIA GeForce GT 220 - *1 Гб* | AMD Radeon R2 Graphics - *512 Мб* |
+| **ОЗУ** | *4 Гб* | *4 Гб* - *3,45 Гб* доступно |
 | **SSD** | Kingston SA400S37120G - *120Гб* | Отсутствует |
 | **HDD** | Отсутствует | ST500LT012 - *500 Гб* |
 #
