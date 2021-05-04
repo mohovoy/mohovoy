@@ -8,12 +8,12 @@
 ### 💻 Хар-ки моих систем:
 || **Компьютер** | **Ноутбук ( *Lenovo Ideapad 110-15ACL* )** |
 |:-:|:-:|:-:|
-| **ОС** | Windows 10 Enterprise | Windows 10 Enterprise |
-| **Процессор** | DualCore AMD A6-7480 - *3,5 ГГц* | DualCore AMD E1-7010 - *1,5 ГГц* |
-| **Видеокарта** | NVIDIA GeForce GT 220 - *1 Гб* | AMD Radeon R2 Graphics - *512 Мб* |
+| **ОС** | ![Windows](https://img.shields.io/badge/Windows_10-Enterprise-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows_10-Enterprise-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **Процессор** | ![AMD](https://img.shields.io/badge/AMD-A6_7480-ED1C24?style=for-the-badge&logo=amd&logoColor=white) | ![AMD](https://img.shields.io/badge/AMD-E1_7010-ED1C24?style=for-the-badge&logo=amd&logoColor=white) |
+| **Видеокарта** | ![NVIDIA](https://img.shields.io/badge/NVIDIA-GT220_1GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | ![AMD](https://img.shields.io/badge/AMD-Radeon_R2_Graphics_512Mb-ED1C24?style=for-the-badge&logo=amd&logoColor=white) |
 | **ОЗУ** | *4 Гб* | *4 Гб* - *3,45 Гб* доступно |
 | **SSD** | Kingston SA400S37120G - *120Гб* | Отсутствует |
-| **HDD** | Отсутствует | ST500LT012 - *500 Гб* |
+| **HDD** | Seagate Barracuda ST3160815AS - *160Гб* | ST500LT012 - *500 Гб* |
 #
 ### ⭐ Связаться со мной:
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=for-the-badge&logo=VK&logoColor=FFF)](https://vk.com/mohovoy2003) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram)](https://t.me/mohovoy) [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/mohovoy/) ![Discord](https://img.shields.io/badge/-mohovoy%232611-7289DA?style=for-the-badge&logo=Discord&logoColor=fff)
