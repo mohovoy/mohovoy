@@ -1,6 +1,6 @@
 ### 📃 Информация:
 - 🎲 О себе:
-    - Зовут Никита, мне 17 лет. Живу в Беларуси, учусь на повара. Практикуюсь в создании веб-сайтов
+    - Зовут Никита, мне 18 лет. Живу в Беларуси, проффесия - Повар 4 разряда. Практикуюсь в создании веб-сайтов
 - 🌱 В настоящее время изучаю:
     - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![CSS](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=fff)
 - 📃 [Личный сайт](https://mohovoy.herokuapp.com/)
